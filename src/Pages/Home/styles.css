@@ -1,0 +1,7 @@
+.tab {
+  height: 35px;
+  width: 120px;
+}
+.tab-active {
+  background-color: rgb(76, 173, 76);
+}
